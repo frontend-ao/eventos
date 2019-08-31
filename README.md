@@ -1,6 +1,6 @@
 # Eventos
 
-Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de backend.
+Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de frontend.
 
 ## Como funciona
 
